@@ -3,3 +3,5 @@ sqoop eval \
 --username root \
 -password cloudera \
 -e "select * from customers"
+
+
